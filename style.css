@@ -4,4 +4,22 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.navhome img{
+    width: 80px;
+}
 
+.sectionhome{
+    font-family: "montserrat-medium", sans-serif;
+    color: #FFFFFF;
+    text-transform: uppercase;
+  
+
+
+}
+
+.homecontentlogo{
+    border: 1px solid white;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+}
